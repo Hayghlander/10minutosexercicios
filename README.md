@@ -1,4 +1,4 @@
-# 10minutosexercicios
+# 10  minutos exercicios
 Site desenvolvido durante curso de Wordpress que fiz na Udemy
 
 Nas imagens a seguir a interface de um site fictício de exercícios no qual permite que o usuário faça o acompanhamento diário de suas atividades e desempenhos.
